@@ -1,0 +1,33 @@
+Avacado Prices Dataset Individual Project
+
+--Maps--
+We have a lot of regions and it could be interesting to compare prices and
+sales in different regions on a map. However, some of the regions are just
+specific cities and some are super general like regions of the us. Like the
+south or the west. Which is hard to visualize.
+Could be more effectively compared with like histograms or something like that. The
+maps idea could be out of the question. I'd have to assign a distinct
+geographical region to each name and that would give me too much discretion on
+interpreting the data. The south to me could be something completely different
+than what the author thought.
+I think I may try to separate the regions from teh cities just so that I can
+compare them separately. Each one has a lot of data it seems.
+
+--Avacado Sales Differentiated by PLU-
+This one could be visualized in several different ways. Might still be best to
+do it with a histogram, but I don't want my project to be primarily
+histograms.
+
+--Aggregate Avacado Sales Differentiated over time--
+This one could easily be accomplished through a nice line chart. I could even
+potentially add in three lines to compare how each plu contributes to the
+total over time. That could be a cool visualization.
+
+--Avacado Prices Distinguished over time--
+Could also do Avacado Prices over time, we have that data too. This could be
+made even more interesting if we threw in some general region data. I could
+divide up the different regions and put them in just like a general North,
+South, West, Central, East regional type of system. That would be up to my
+discretion, I could include that information in a key somewhere too. That
+would allow me to not cut out cities like Albany and instead include them in
+the regional vis from the get go.
