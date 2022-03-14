@@ -1,0 +1,27 @@
+Andrew Nickeson
+CSC324
+Time Log for Individual Project
+*Not a representation of my total time spent on class work*
+Mon January 31: 8-8:30pm
+Thu February 3: 11am-12pm
+Sun February 6: 9-10pm
+For the Week: Found data set and began exploring options for data
+visualization
+Tue February 8: 10-11am
+Sat February 12: 11-12pm
+For the Week: Began to structure Shiny Dashboard
+Wed February 16: 10:30-11pm
+Fri February 18: 9-9:30pm
+For the Week: Worked cleaning and grouping data for reactive plot
+Wed February 23: 10-10:45am
+For the Week: Added Wordcloud visualization to the dashboard
+Wed March 2: 11am-12pm
+Sat March 5: 8-9am
+For the week: Added Data Table to the dashboard and added icons
+Mon March 7: 8-9pm 
+Wed March 9: 9-9:45pm
+For the week: Finished Reactive Plot and Prices plot
+Sat March 12: 10-11am
+Sun March 12: 12-1pm
+For the week: Worked on presentation, cleaning up dashboard, the video, and
+cleaned up documentation
